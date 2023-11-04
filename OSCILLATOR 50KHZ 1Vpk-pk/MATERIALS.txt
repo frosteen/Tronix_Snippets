@@ -1,0 +1,9 @@
+TL082
+(2) 1N4148
+(2) 1nF Capacitor
+5.6k Resistor 1/4W
+2k Resistor 1/4W
+8.2k Resistor 1/4W
+25k Dual Ganged
+Binding Post
+PCB
